@@ -1,0 +1,11 @@
+// (26K-3076) Task-2
+#include <stdio.h>
+
+int main() {
+    
+    for (int i = 9; i >= 4; i--) {
+        printf("%d ", i * i);
+    }
+    printf("\n");
+    return 0;
+}
